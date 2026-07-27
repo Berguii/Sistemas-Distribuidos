@@ -1,5 +1,5 @@
 # Sistemas-Distribuidos
- - ANOTAÇÕES -
+ - ANOTAÇÕES 
 
   Aula 1 - 27/07                                                                                     |   croco + senha = chave hash => resultado gerado por uma função matemática que transforma dados de qualquer tamanho em                                                                                                        |  (login)                                        uma sequência única e de tamanho fixo de caracteres
 Arquitetura de Sistemas                                                                              |
