@@ -6,7 +6,7 @@ Arquitetura de Sistemas                                                         
 1) Cliente - Servidor                                                                                | 
      -Modelo TCP/IP => prático x teórico OSI                                                         |
                    (4 camadas) | (7 camadas)                                                         |
-                                                                                                     | # iremos aprender sobre como fazer a comunicação entre computadores independentes, enviando ou recebendo informações #
+                                                                                                     | # iremos aprender sobre como fazer a comunicação entre maquinas independentes, enviando ou recebendo informações.
 - APLICAÇÃO                                                                                          |
 - TRANSPORTE                                                                                         |
                                                                                                      |  Thread : é a menor unidade de processamento que um sistema operacional pode gerenciar e executar em um núcleo de        ## USUÁRIO A - SERVIDOR - USUÁRIO B ##                                                               |                                                        processador
